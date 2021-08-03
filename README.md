@@ -1,4 +1,4 @@
-### Hi there 👋
+### Help I'm trapped in a GitHub...
 
 <!--
 **Lumina0306/Lumina0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
